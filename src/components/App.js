@@ -1,7 +1,7 @@
 import React from 'react';
 import PostList from './PostList';
 import PostDetail from './PostDetail';
-import Navbar from './Navbar';
+// import Navbar from './Navbar';
 
 const App = () => {
     return <div className='ui container grid'>
