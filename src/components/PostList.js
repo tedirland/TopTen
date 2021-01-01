@@ -28,10 +28,7 @@ class PostList extends React.Component {
     }
 
     render() {
-        return <div className='ui divided list'>{this.renderList()}
-        <br></br>
-        <a>View Top 100</a>
-        </div>
+        return <div className='ui divided list'>{this.renderList()} </div>
          
     }
 }
